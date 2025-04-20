@@ -30,6 +30,7 @@ pip install langchain-google-genai google-generativeai langchain-community langc
 
 pip install -qU "langchain-community>=0.2.11" tavily-python --quiet
 
+---
 ### 1. Output Screenshot
 - streamlit_output1
 - streamlit_output2
