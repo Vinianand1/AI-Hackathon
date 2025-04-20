@@ -23,8 +23,11 @@ This Gen-AI Agent automates the retrieval, classification, and summarization of 
 ---
 
 ## 🛠️ Setup Instructions
+
 Install Packages
+
 pip install langchain-google-genai google-generativeai langchain-community langchain-core python-dotenv langgraph --quiet
+
 pip install -qU "langchain-community>=0.2.11" tavily-python --quiet
 
 ### 1. Output Screenshot
@@ -32,6 +35,5 @@ pip install -qU "langchain-community>=0.2.11" tavily-python --quiet
 - streamlit_output2
   
 ## Conclusion
-
-```
+>
 This Gen-AI agent empowers insurance professionals with real-time, structured insights from the web—automating the discovery, classification, and summarization of news on climate risk, InsurTech, policies, and reinsurance. Powered by Tavily, open-source LLMs, and Streamlit, it bridges AI with industry intelligence for faster, smarter decision-making.
