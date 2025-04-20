@@ -32,7 +32,7 @@ pip install -qU "langchain-community>=0.2.11" tavily-python --quiet
 
 ---
 ### 1. Output Screenshot
-[streamlit_output1](https://github.com/Vinianand1/AI-Hackathon/blob/main/streamlit_output1.png)
+[streamlit_output1](/streamlit_output1.png)
 
 [streamlit_output2](/streamlit_output2.png)
   
