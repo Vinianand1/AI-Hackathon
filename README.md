@@ -24,7 +24,7 @@ This Gen-AI Agent automates the retrieval, classification, and summarization of 
 
 ## 🛠️ Setup Instructions
 
-Install Packages
+**Install Packages**
 
 pip install langchain-google-genai google-generativeai langchain-community langchain-core python-dotenv langgraph --quiet
 
